@@ -1,4 +1,4 @@
-Hello
-yes
-ya
-okey, let's play
+Hello;
+yes;
+ya;
+okey, let's play;
