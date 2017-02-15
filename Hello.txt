@@ -1,3 +1,3 @@
-Hello
-yes
-ya
+Hello;
+yes;
+ya;
